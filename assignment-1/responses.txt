@@ -1,0 +1,4 @@
+the internet is a system spanning many networks all interconnected together. the internet connects people, the web connects information
+the internet is made of a number of independenlty operated networks, it is fully distrubuted and the operators ensure that there is end to end connectivity
+directories are like folders but are mainly used when discussing file systems
+vcs allows you to track changes that are done to a file, it also allows you to revert back to the original file if needed, and it makes sharing and collaboration much easier
