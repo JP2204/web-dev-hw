@@ -1,0 +1,8 @@
+6.	Briefly describe one way how data travels on the internet.
+One way to send data is by using light, more specifically using a fiber optic cable. Fiber optics reflect light which makes it suitable for data to travel long distances.
+7.	What is the relationship between an IP address and the DNS?
+The IP address and DNS go hand in hand because a DNS corresponds directly with a specific IP address associated with a webpage. The DNS finds the IP address for a webpage and takes you to it.
+8.	What is a cookie?
+It is a way websites use to remember who you are
+9.	List the the three basic parts of a URL.
+The three basic parts of a URL are Protocol, Domain Name, and Path
