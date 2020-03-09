@@ -14,3 +14,5 @@ I am excited to learn how to style sites beyond the basic way we have been styli
 
 
 Free Response: Summarize your work cycle for this assignment.
+
+my work cycle for this assignment started with what I wanted my instructable to be. once i had my topic my focus shifted to remembering all that we have learned so far and putting it all together. it was easier than i thought although some of the elements i struggled with but after looking at the website i was able to figure them out. after that the assignment went pretty smooothly.
