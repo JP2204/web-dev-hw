@@ -10,7 +10,7 @@ h1 {
 
 .container {
   color: rgb(255, 237, 0);
-  background-color: rgb(1, 12, 214);
+  background-color: rgb(1, 12, 214, 0.5);
   width: 50%;
   position: absolute;
   left: 200px;
