@@ -15,3 +15,7 @@ h1 {
   position: absolute;
   left: 120px;
 }
+
+p {
+  text-align: right;
+}
