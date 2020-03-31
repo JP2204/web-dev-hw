@@ -22,4 +22,6 @@ p {
 
 p2 {
   color: rgb(255, 148, 0);
+  text-align: right;
+  font-size: 75%;
 }
