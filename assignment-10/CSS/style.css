@@ -21,3 +21,8 @@ p {
 p:first-of-type:first-letter {
   font-family: 'Ubuntu', sans-serif;
 }
+
+a {
+  background-color: rgb(18, 161, 76);
+  color: white;
+}
