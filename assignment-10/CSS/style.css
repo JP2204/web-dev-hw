@@ -15,9 +15,6 @@ p {
   line-height: 1.3em;
 }
 
-
-
-
 p:first-of-type:first-letter {
   font-family: 'Ubuntu', sans-serif;
 }
