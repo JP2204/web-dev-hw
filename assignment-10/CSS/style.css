@@ -2,12 +2,17 @@ body {
 background-color: rgb(152, 32, 161);
 color: white;
 padding: 6px;
-  
+font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+font-family: 'Cinzel', serif;
+
 }
 
 
 
 
 .text {
-  font-family: 'Ubuntu', sans-serif;
+
 }
