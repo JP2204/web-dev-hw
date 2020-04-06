@@ -15,3 +15,5 @@ having fallback fonts is important because if you have a font in mind but the us
 
 
 Free Response: Summarize your work cycle for this assignment.
+
+I started this assignment with getting the work I wanted I use, I decided to go with a speech I did for my cat. after that everything went smoothly, css is a pretty straight forward language that I find fairly easy to use. the one problem I ran into was linking to a site for the author, because I chose my own work so I was not sure how to go about that.
