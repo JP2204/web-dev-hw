@@ -26,3 +26,11 @@ a {
   background-color: rgb(18, 161, 76);
   color: white;
 }
+A:hover {
+  font-style: bold;
+
+}
+a:visited {
+  color: rgb(97, 96, 226);
+
+}
