@@ -18,7 +18,6 @@ p {
 
 
 
-.text {
-
-
+p:first-of-type:first-letter {
+  font-family: 'Ubuntu', sans-serif;
 }
