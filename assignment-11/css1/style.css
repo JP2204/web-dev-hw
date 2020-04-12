@@ -18,7 +18,7 @@ body {
   width: 300px;
   height: 200px;
   display: inline-block;
-  margin: left;
+  margin: auto;
  }
 .box2 {
   float:right;
@@ -26,7 +26,7 @@ body {
   width: 300px;
   height: 200px;
   display: inline-block;
-  margin: right;
+  margin: auto;
  }
 .box3 {
   float: right;
