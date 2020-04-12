@@ -7,24 +7,30 @@ body {
 
 .navigation {
 
-}
 
 
+.container {
+ float:left;
+ width: 960px;
+ margin: 0 auto;
+ height: 500px;
+ }
 
-
-.row {
-  display: inline-block;
-  margin: 10%;
-  width: 25% auto;
-}
-
-
-
-.column1 {
-  background-color: rgb(123, 81, 213);
-  float: left;
-  width: 45%;
-  padding: 10px;
-  height: 100%;
-
-}
+.box1 {
+ float:left;
+ background-color: rgb(163, 31, 217);
+ width: 300px;
+ height: 200px;
+ }
+ .box2 {
+ float:left;
+ background-color: rgb(163, 31, 217);
+ width: 300px;
+ height: 200px;
+ }
+ .box3 {
+ float:left;
+ background-color: rgb(163, 31, 217); 
+ width: 300px;
+ height: 200px;
+ }
