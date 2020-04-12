@@ -21,7 +21,7 @@ body {
   .main {
     background-color: rgb(231, 247, 242);
     background-image: url("..images/wave.jpeg");
-    margin-left: 300px;
+    margin-right: 300px;
     padding: 1em;
 
   }
