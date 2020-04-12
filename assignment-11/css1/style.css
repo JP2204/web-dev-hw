@@ -19,7 +19,7 @@ body {
   width: 300px;
   height: 100%;
   display: inline;
-  margin: 10px;
+  margin-left: auto;
  }
 .box2 {
   float:right;
@@ -27,7 +27,7 @@ body {
   width: 300px;
   height: 100%;
   display: inline;
-  margin: 10px;
+  margin: auto;
  }
 .box3 {
   float: right;
