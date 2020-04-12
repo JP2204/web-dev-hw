@@ -10,6 +10,7 @@ body {
   width: 960px;
   margin: 10px auto;
   height: 100%;
+  display: inline
   }
 
 .box1 {
@@ -17,7 +18,7 @@ body {
   background-color: rgb(96, 4, 139,.5);
   width: 300px;
   height: 100%;
-  display: inline-block;
+  display: inline;
   margin: 10px;
  }
 .box2 {
@@ -25,7 +26,7 @@ body {
   background-color: rgb(96, 4, 139,.5);
   width: 300px;
   height: 100%;
-  display: inline-block;
+  display: inline;
   margin: 10px;
  }
 .box3 {
@@ -33,6 +34,6 @@ body {
   background-color: rgb(96, 4, 139,.5);
   width: 300px;
   height: 100%;
-  display: inline-block;
+  display: inline;
   margin: 10px;
  }
