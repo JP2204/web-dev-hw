@@ -14,5 +14,9 @@ body {
 
 .column {
   background-color: rgb(123, 81, 213);
-   
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 100%;
+
 }
