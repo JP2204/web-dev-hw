@@ -71,3 +71,7 @@ body {
   .links{
 
   }
+  .links a {
+    display: blocks;
+    margin: 1em;
+  }
