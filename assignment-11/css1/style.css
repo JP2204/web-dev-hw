@@ -11,6 +11,7 @@ body {
   margin-right: 10px auto;
   height: 100%;
   display: inline
+  align-items: stretch;
   }
 
 .box1 {
