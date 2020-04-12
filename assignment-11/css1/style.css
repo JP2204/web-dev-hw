@@ -38,7 +38,7 @@ body {
   }
 
   .site-info{
-    margin: 2em;
+    margin: 2em auto;
 
     text-align: center;
     font-size: 200%;
@@ -53,6 +53,8 @@ body {
     width: 150px;
     height: 150px;
 
+    margin: 0 auto 1em;
+
     border: 5px dotted rgb(66, 66, 66);
     border-radius: 65%;
 
@@ -60,7 +62,7 @@ body {
     color: rgb(255, 255, 255);
   }
   .logo:hover {
-    border: 5px dotted rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
   }
 
 
