@@ -13,4 +13,5 @@ body {
 
   position: fixed;
   margin: 10px auto 10px auto
+  float: left;
 }
