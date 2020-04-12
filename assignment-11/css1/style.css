@@ -5,36 +5,14 @@ body {
   color: rgb(255, 255, 255);
   }
 
-.container {
-  float: left;
-  width: 960px;
-  margin-right: 10px auto;
-  height: 100%;
-  display: inline
-  align-items: stretch;
-  }
+.navigation {
+  background-color: rgb(59, 1, 99,.5);
+  width: 300px;
+  height: 50%;
 
-.box1 {
-  float:left;
-  background-color: rgb(96, 4, 139,.5);
-  width: 300px;
-  height: 100%;
-  display: inline;
-  margin-left: 10px;
- }
-.box2 {
-  float:right;
-  background-color: rgb(96, 4, 139,.5);
-  width: 300px;
-  height: 100%;
-  display: inline;
-  margin: auto;
- }
-.box3 {
-  float: right;
-  background-color: rgb(96, 4, 139,.5);
-  width: 300px;
-  height: 100%;
-  display: inline;
-  margin: 10px;
- }
+  position: fixed;
+  top: 20px;
+  bottom: 20px;
+  left: 100px;
+  right: 100px;
+}
