@@ -69,9 +69,13 @@ body {
 
 
   .links{
+    margin: 0 1em;
 
   }
   .links a {
     display: blocks;
     margin: 1em;
+  }
+  .links a:hover {
+    margin-left: 2em;
   }
