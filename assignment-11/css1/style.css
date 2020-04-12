@@ -6,11 +6,11 @@ body {
   }
 
   .navigation {
-    background-color: rgb(69, 1, 142);
+    background-color: rgb(69, 1, 142, .6);
     width: 300px;
     height: 50%
 
     position: fixed;
-    left: 50;
-    right:auto;
+    margin-left: 300px;
+
   }
