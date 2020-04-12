@@ -17,6 +17,10 @@ body {
     right: 0;
 
   }
+  .navigation a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
 
 
   .main {
@@ -53,6 +57,7 @@ body {
     border-radius: 65%;
 
     line-height: 150px;
+    color: rgb(255, 255, 255);
   }
 
 
