@@ -2,9 +2,17 @@
 body {
   background-color: rgb(231, 129, 23);
   font-size: 1.25em;
-  color: rgb(142, 22, 162);
+  color: rgb(255, 255, 255);
 }
 
 .navigation {
 
+}
+
+
+
+
+.column {
+  background-color: rgb(123, 81, 213);
+   
 }
