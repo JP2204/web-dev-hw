@@ -21,7 +21,14 @@ body {
   .main {
     background-color: rgb(231, 247, 242);
     background-image: url("..images/wave.jpeg");
+    overflow: auto;
+
     margin-right: 300px;
     padding: 1em;
+
+  }
+  .img {
+    width: 100%;
+    height: auto;
 
   }
