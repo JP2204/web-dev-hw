@@ -9,13 +9,16 @@ menu {
 
 /*Top-Links*/
 #site-links {
+  display: inline-block;
 
 }
 #site-link .menu-item {
   width: 6em;
   padding: .5em 1em;
+  display: inline-block;
 
   background-color: rgb(33, 228, 164);
 
   text-align: center;
+  color: white;
 }
