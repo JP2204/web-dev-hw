@@ -9,7 +9,10 @@ menu {
 
 /*Top-Links*/
 #site-links {
+  margin: 0;
+  padding: 0;
   display: inline-block;
+
 
 }
 #site-link .menu-item {
@@ -21,4 +24,7 @@ menu {
 
   text-align: center;
   color: white;
+}
+#site-links .menu-item:hover {
+  
 }
