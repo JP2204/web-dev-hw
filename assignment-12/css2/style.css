@@ -27,7 +27,7 @@ a {
 /*layout */
 .main-container {
   width: 60%;
-  min-width: 700px;
+  max-width: 700px;
   margin: 3em auto;
   padding: 3em;
 
@@ -62,4 +62,17 @@ footer{
   border: 5px double rgb(17, 117, 96);
 
   text-align: center;
+}
+#site-title {
+  margin: .5em;
+  line-height: 1em;
+  font-size: 3em;
+
+}
+#site-slogan {
+  font-size: 1em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: rgb(16, 86, 130);
+
 }
