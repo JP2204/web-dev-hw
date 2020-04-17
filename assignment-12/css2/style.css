@@ -55,4 +55,5 @@ footer{
 /*Site info */
 .heading {
   width: 50%;
+  border: 5px double rgb(17, 117, 96);
 }
