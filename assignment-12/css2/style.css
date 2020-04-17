@@ -89,14 +89,14 @@ footer{
 }
 
 /*Top-Links*/
-.site-links {
+#site-links {
   margin: 0;
   padding: 0;
   display: inline-block;
 
 
 }
-.site-links .menu-item {
+#site-links .menu-item {
   width: 6em;
   padding: .5em 1em;
   display: inline-block;
@@ -106,7 +106,7 @@ footer{
   text-align: center;
   color: rgb(16, 86, 130);
 }
-.site-links .menu-item:hover {
+#site-links .menu-item:hover {
   border-color: rgb(0, 0, 0);
 
 }
