@@ -82,7 +82,7 @@ footer{
 }
 
 /*container*/
-menu {
+.navigation {
   margin: 0;
   padding: 0;
   background-color: rgb(59, 142, 124);
@@ -108,5 +108,6 @@ menu {
 }
 #site-links .menu-item:hover {
     margin-right: 2em;
+    border-color: rgb(0, 0, 0);
 
 }
