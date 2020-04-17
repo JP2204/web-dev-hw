@@ -1,7 +1,7 @@
 /* site-wide */
 body {
   background-color: rgb(16, 86, 130);
-  background-image: url('../images/fishing.jpg')
+  background-image: url('../images/fishing-border.jpg')
 
 
 
@@ -30,7 +30,7 @@ a {
   min-width: 700px;
   margin: 3em auto;
   padding: 3em;
-  
+
   background-color: white;
 
 }
