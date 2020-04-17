@@ -55,5 +55,11 @@ footer{
 /*Site info */
 .heading {
   width: 50%;
+  margin: 4em auto;
+  padding: 30px;
+  position: relative;
+  z-index: 1;
   border: 5px double rgb(17, 117, 96);
+
+  text-align: center;
 }
