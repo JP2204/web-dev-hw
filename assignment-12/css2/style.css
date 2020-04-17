@@ -109,7 +109,7 @@ menu {
  #site-links .menu-item:hover {
   background-color: rgb(16, 86, 130);
   text-decoration: underline overline;
-  text-decoration-color: rgb(33, 103, 110);
+  text-decoration-color: white;
 
 
 }
