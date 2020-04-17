@@ -89,7 +89,7 @@ footer{
 }
 
 /*Top-Links*/
-#site-links {
+.menu-item {
   margin: 0;
   padding: 0;
   display: inline-block;
