@@ -19,20 +19,27 @@ a {
   color: black;
 }
 * {
-    font-family: 'Ubuntu', sans-serif;
-    color: white;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
 
 }
 
 /*layout */
+.main-container {
+  background-color: white;
+}
 header {
 
 }
 main {
+    margin: 3em 0;
+    text-align: justify;
+    margin: 3em 0;
 
 }
 footer{
-  text-align: center;
-  font-size: .75em;
+    margin-top: 3em;
+    text-align: center;
+    font-size: .75em;
 
 }
