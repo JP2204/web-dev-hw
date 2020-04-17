@@ -39,6 +39,9 @@ a {
 header {
 
 }
+img {
+  margin: 0;
+}
 main {
     margin: 3em 0;
     text-align: justify;
