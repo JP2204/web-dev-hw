@@ -20,7 +20,7 @@ a {
 }
 * {
   font-family: 'Ubuntu', sans-serif;
-  color: white;
+  color: rgb(16, 86, 130);
 
 }
 
@@ -33,7 +33,7 @@ a {
 
   background-color: white;
   border: 10px
-  border-color: rgb(33, 228, 164); 
+  border-color: rgb(33, 228, 164);
 
 }
 header {
