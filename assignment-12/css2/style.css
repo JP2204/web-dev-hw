@@ -107,7 +107,6 @@ footer{
   color: white;
 }
 #site-links .menu-item:hover {
-    margin-right: 2em;
-    border-color: rgb(0, 0, 0);
+  border-color: rgb(0, 0, 0);
 
 }
