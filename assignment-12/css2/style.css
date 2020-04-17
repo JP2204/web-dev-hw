@@ -32,6 +32,8 @@ a {
   padding: 3em;
 
   background-color: white;
+  border: 10px
+  border-color: rgb(33, 228, 164); 
 
 }
 header {
