@@ -108,6 +108,8 @@ footer{
 }
 #site-links .menu-item:hover {
   border-color: rgb(0, 0, 0);
+  text-decoration-style: double;
+  text-decoration-color: rgb(33, 103, 110);
 
 
 }
