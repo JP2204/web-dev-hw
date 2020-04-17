@@ -114,22 +114,3 @@ menu {
 
 
 }
-
-#social-links {
-  padding: .5em;
-  display: inline-block;
-  float: right;
-
-
-}
-#social-links .social-item {
-  margin: 0 5px;
-}
-#social-links img {
-  width: 15px;
-  height: 15px;
-  opacity: .5;
-}
-#social-links img:hover {
-  opacity: 1;
-}
