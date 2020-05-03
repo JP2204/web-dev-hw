@@ -1,0 +1,113 @@
+/* site-wide */
+body {
+  background-color: rgb(16, 86, 130);
+  background-image: url('../images/fishing-border.jpg')
+
+
+
+
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Cinzel', serif;
+  color: rgb(33, 228, 164);
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+* {
+  font-family: 'Ubuntu', sans-serif;
+  color: rgb(16, 86, 130);
+
+}
+
+/*layout */
+.main-container {
+  width: 60%;
+  max-width: 700px;
+  margin: 3em auto;
+  padding: 3em;
+
+  background-color: white;
+  border: 10px single rgb(33, 228, 164);
+
+
+}
+header {
+
+}
+img {
+  margin: auto;
+  display: block;
+}
+main {
+    margin: 3em 0;
+    text-align: justify;
+    margin: 3em 0;
+
+}
+footer{
+    margin-top: 3em;
+    text-align: center;
+    font-size: .75em;
+
+}
+
+/*Site info */
+.heading {
+  width: 50%;
+  margin: 4em auto;
+  padding: 30px;
+  position: relative;
+  z-index: 1;
+  border: 5px double rgb(17, 117, 96);
+
+  text-align: center;
+}
+#site-title {
+  margin: .5em;
+  line-height: 1em;
+  font-size: 3em;
+
+}
+#site-slogan {
+  font-size: 1em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: rgb(16, 86, 130);
+
+}
+
+/*container*/
+menu {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(59, 142, 124);
+}
+
+/*Top-Links*/
+#site-links {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+
+
+}
+ #site-links .menu-item {
+  width: 6em;
+  padding: .5em 1em;
+  display: inline-block;
+
+  background-color: rgb(59, 142, 124);
+
+  text-align: center;
+  color: rgb(16, 86, 130);
+}
+ #site-links .menu-item:hover {
+  color: white;
+  background-color: rgb(16, 86, 130);
+  text-decoration: underline overline;
+  text-decoration-color: white;
