@@ -24,6 +24,8 @@ a {
 
 }
 
+
+
 /*layout */
 .main-container {
   width: 60%;
@@ -42,6 +44,7 @@ header {
 img {
   margin: auto;
   display: block;
+
 }
 main {
     margin: 3em 0;
