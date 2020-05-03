@@ -104,11 +104,11 @@ menu {
   background-color: rgb(59, 142, 124);
 
   text-align: center;
-  color: rgb(16, 86, 130);
+  color: rgb(31, 177, 209);
 }
  #site-links .menu-item:hover {
   color: white;
-  background-color: rgb(16, 86, 130);
+  background-color: rgb(31, 177, 209);
   text-decoration: underline overline;
   text-decoration-color: white;
 
